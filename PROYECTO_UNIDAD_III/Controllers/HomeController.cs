@@ -16,10 +16,6 @@ namespace PROYECTO_UNIDAD_III.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "";
-
-
-
-
             return View();
         }
 
