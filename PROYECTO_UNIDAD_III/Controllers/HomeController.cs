@@ -15,7 +15,7 @@ namespace PROYECTO_UNIDAD_III.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "";
+            ViewBag.Message = "Your contact page";
             return View();
         }
 
